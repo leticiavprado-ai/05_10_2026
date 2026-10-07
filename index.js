@@ -61,5 +61,14 @@ console.log(area);
 let primeiroNome = "Letícia";
 let ultimoNome = "Prado";
 
-console.log(primeiroNome + " " + ultimoNome);
+console.log(primeiroNome + " " + ultimoNome); 
+
+let primeiroNome = "Letícia";
+let ultimoNome = "Prado";
+
+console.log(`${primeiroNome} ${ultimoNome}`); 
+
+let resultado = 2 ** 8;
+
+console.log(resultado);
 
