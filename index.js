@@ -14,7 +14,7 @@ NOME = "Maria";*/
 console.log(preco);
 console.log(typeof preco);*/ 
 
-let texto = "Olá";
+/*let texto = "Olá";
 let numero = 10;
 let booleano = true;
 let nulo = null;
@@ -26,4 +26,26 @@ console.log(typeof numero);
 console.log(typeof booleano);
 console.log(typeof nulo);
 console.log(typeof indefinido);
-console.log(typeof grande);
+console.log(typeof grande);*/ 
+
+
+{
+    let nome = "Letícia";
+    let idade = 15;
+
+    console.log(nome);
+    console.log(idade);
+}
+
+console.log(nome);
+console.log(idade);  
+
+
+let a = 15;
+let b = 4;
+
+console.log(a + b);
+console.log(a - b);
+console.log(a * b);
+console.log(a / b);
+console.log(a % b);
