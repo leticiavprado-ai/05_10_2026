@@ -70,5 +70,18 @@ console.log(`${primeiroNome} ${ultimoNome}`);
 
 let resultado = 2 ** 8;
 
-console.log(resultado);
+console.log(resultado); 
+
+
+
+console.log(10 == "10");
+console.log(10 === "10"); 
+
+true
+false 
+
+
+console.log(25 !== "25");
+
+true
 
