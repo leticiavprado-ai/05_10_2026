@@ -110,5 +110,17 @@ console.log(!ativo);
 false 
 
 console.log("5" + 3);
-53
+53 
+
+console.log("10" - 2);
+
+8
+
+let valor = Number("123.45");
+
+console.log(valor + 10); 
+
+133.45 
+
+
 
