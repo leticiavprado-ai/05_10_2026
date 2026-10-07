@@ -100,5 +100,15 @@ let maiorDeIdade = false;
 
 console.log(temCarteira || maiorDeIdade); 
 
-true
+true 
+
+
+let ativo = true;
+
+console.log(!ativo); 
+
+false 
+
+console.log("5" + 3);
+53
 
