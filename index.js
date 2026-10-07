@@ -48,4 +48,18 @@ console.log(a + b);
 console.log(a - b);
 console.log(a * b);
 console.log(a / b);
-console.log(a % b);
+console.log(a % b);   
+
+let largura = 8;
+let altura = 5;
+
+let area = largura * altura;
+
+console.log(area); 
+
+
+let primeiroNome = "Letícia";
+let ultimoNome = "Prado";
+
+console.log(primeiroNome + " " + ultimoNome);
+
