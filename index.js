@@ -83,5 +83,22 @@ false
 
 console.log(25 !== "25");
 
+true 
+
+
+let temCarteira = true;
+let maiorDeIdade = false;
+
+console.log(temCarteira && maiorDeIdade); 
+
+false 
+
+
+
+let temCarteira = true;
+let maiorDeIdade = false;
+
+console.log(temCarteira || maiorDeIdade); 
+
 true
 
