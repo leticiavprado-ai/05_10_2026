@@ -122,5 +122,20 @@ console.log(valor + 10);
 
 133.45 
 
+let resultado = Boolean(0);
 
+console.log(resultado); 
+
+false 
+
+let saldo = 100;
+
+saldo += 50;
+saldo -= 20;
+saldo *= 2;
+saldo /= 4;
+
+console.log(saldo); 
+
+65
 
