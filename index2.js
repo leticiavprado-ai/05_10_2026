@@ -56,3 +56,22 @@ for (let i = 0; i < 5; i++) {
     console.log(i);
 } 
 
+let frutas = ["uva", "pera", "maçã"];
+
+for (let fruta of frutas) {
+    console.log(fruta);
+} 
+
+let j = 0;
+
+while (j < 3) {
+    console.log(j);
+    j++;
+} 
+
+
+for (let i = 0; i <= 20; i++) {
+    if (i % 3 === 0) {
+        console.log(i);
+    }
+}
