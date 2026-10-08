@@ -30,4 +30,29 @@ switch (color) {
     case "verde":
         console.log("Siga");
         break;
-}
+} 
+
+let numero = 7;
+
+if (numero % 2 === 0) {
+    console.log("Par");
+} else {
+    console.log("Ímpar");
+} 
+
+let nota = 8;
+
+if (nota >= 9) {
+    console.log("A");
+} else if (nota >= 7) {
+    console.log("B");
+} else if (nota >= 5) {
+    console.log("C");
+} else {
+    console.log("D");
+} 
+
+for (let i = 0; i < 5; i++) {
+    console.log(i);
+} 
+
